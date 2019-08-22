@@ -404,24 +404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "адрес": 5,
-        "улица": "Краснознаменная",
-        "тип": "общежитие",
-        "площадь": "6055,6",
-        "marker-size": "medium",
-        "marker-color": "#7e7e7e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.715598583221436,
-          52.08763516355102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "адрес": 1,
         "улица": "Малая",
@@ -804,7 +786,9 @@
         "адрес": 155,
         "улица": "ул. Кирова",
         "тип": "многокварт",
-        "площадь": 2415
+        "площадь": 2415,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -820,7 +804,9 @@
         "адрес": 161,
         "тип": "88-кварт",
         "улица": "ул. Кирова",
-        "площадь": "7884,3"
+        "площадь": "7884,3",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -836,7 +822,9 @@
         "адрес": 116,
         "тип": "многокварт",
         "улица": "ул. Кирова",
-        "площадь": 3396
+        "площадь": 3396,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +840,9 @@
         "адрес": 122,
         "тип": "многокварт",
         "улица": "ул. Кирова",
-        "площадь": "6877,1"
+        "площадь": "6877,1",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -868,7 +858,9 @@
         "улица": "бул. Шевченки",
         "адрес": 2,
         "тип": "многокварт",
-        "площадь": " 1740,7"
+        "площадь": " 1740,7",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -884,7 +876,9 @@
         "адрес": 6,
         "улица": "бул. Шевченки",
         "тип": "гостиница",
-        "площадь": "10658,1"
+        "площадь": "10658,1",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -900,7 +894,9 @@
         "адрес": 8,
         "улица": "бул. Шевченки",
         "тип": "многокварт",
-        "площадь": 3729
+        "площадь": 3729,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -916,7 +912,9 @@
         "адрес": "8/1",
         "улица": "бул. Шевченки",
         "тип": "многокварт",
-        "площадь": 3331
+        "площадь": 3331,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -932,7 +930,9 @@
         "адрес": "6/1",
         "улица": "бул. Шевченки",
         "тип": "административное ",
-        "площадь": 3708
+        "площадь": 3708,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -948,13 +948,573 @@
         "адрес": 4,
         "тип": "административное ",
         "улица": "бул. Шевченки",
-        "площадь": "7921,6"
+        "площадь": "7921,6",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           23.704386949539185,
           52.08639248034388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 169,
+        "улица": "ул. Кирова",
+        "площадь": 3409,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.705942630767822,
+          52.08496186849698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "10/2",
+        "улица": "ул. МОПРА",
+        "площадь": "3868,3",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.710942268371582,
+          52.0867319966983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "10/1",
+        "улица": "ул. МОПРА",
+        "площадь": 2137,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.710539937019348,
+          52.0862902953043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 12,
+        "площадь": 6867,
+        "улица": "ул. МОПРА",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7104594707489,
+          52.08546621385218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 17,
+        "площадь": 5252,
+        "улица": "ул. МОПРА",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.709542155265808,
+          52.08567718015313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 19,
+        "площадь": "5814,1",
+        "улица": "ул. МОПРА",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.708919882774353,
+          52.085340952139106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 10,
+        "площадь": 3643,
+        "улица": "ул. МОПРА",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.709901571273804,
+          52.08641885063869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "9/3",
+        "улица": "Краснознаменная",
+        "площадь": "6060,7",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.715416193008423,
+          52.08613866545953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "9/2",
+        "улица": "Краснознаменная",
+        "площадь": "9169,9",
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714675903320312,
+          52.08597384982652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "9/1",
+        "улица": "Краснознаменная",
+        "тип": "многокварт",
+        "площадь": " 5113,4",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714042901992798,
+          52.08660014599368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "3/2",
+        "улица": "ул. Малая",
+        "тип": "многокварт",
+        "площадь": "5986,7",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714305758476257,
+          52.08692647577655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "улица": "наб. Ф. Скорины",
+        "адрес": 38,
+        "площадь": 6982,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.715147972106934,
+          52.08482671615895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 34,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 7040,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.713420629501343,
+          52.08480034492333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 36,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 6855,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71401071548462,
+          52.0853244703086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "36/1",
+        "тип": "многокварт",
+        "площадь": 4540,
+        "улица": "наб. Ф. Скорины",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71302366256714,
+          52.08559806790715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "34/1",
+        "площадь": 1253,
+        "тип": "многокварт",
+        "улица": "наб. Ф. Скорины",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71249794960022,
+          52.08531458120735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "34/2",
+        "площадь": 5714,
+        "тип": "базовая станция",
+        "улица": "наб. Ф. Скорины",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71251940727234,
+          52.085129984248695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "36/2",
+        "площадь": 3395,
+        "тип": "многокварт",
+        "улица": "наб. Ф. Скорины",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71323823928833,
+          52.08648148002641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 32,
+        "улица": "наб. Ф. Скорины",
+        "тип": "многокварт",
+        "площадь": "8654,3",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71176302433014,
+          52.08464871001601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 30,
+        "улица": "наб. Ф. Скорины",
+        "тип": "многокварт",
+        "площадь": "7843,1",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.710615038871765,
+          52.08476408444889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 28,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 9204,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.708592653274536,
+          52.08456959594681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 26,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 5741,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.70745539665222,
+          52.08507724212025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 24,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 4395,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.70724081993103,
+          52.08455311383142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 22,
+        "улица": "наб. Ф. Скорины",
+        "площадь": 3449,
+        "тип": "многокварт",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.706103563308716,
+          52.0843256600172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "улица": "ул. МОПРА",
+        "адрес": 7,
+        "тип": "приют",
+        "площадь": "896,6",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.708179593086243,
+          52.08564751307734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 2,
+        "улица": "ул. Малая",
+        "тип": "налоговая",
+        "площадь": "7713,3",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.713474273681637,
+          52.08809003628509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "5/1",
+        "улица": "Краснознаменная",
+        "тип": "мини-кафе",
+        "площадь": "287,2",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.715587854385376,
+          52.08766153311148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 75,
+        "улица": "пр. Машерова",
+        "тип": "типография",
+        "площадь": "3232,5",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714439868927002,
+          52.08858775403662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "75/1",
+        "улица": "пр. Машерова",
+        "тип": "административное",
+        "площадь": "3329,4",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.713940978050232,
+          52.088802001690645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": 5,
+        "улица": "Краснознаменная",
+        "тип": "общежитие",
+        "площадь": "6055,6",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.715432286262512,
+          52.0879417087291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "адрес": "75/А",
+        "улица": "пр. Машерова",
+        "тип": "административное",
+        "площадь": "3329,4",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.714686632156372,
+          52.0883405439268
         ]
       }
     }
