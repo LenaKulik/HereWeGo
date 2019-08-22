@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 57,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "75,6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.718736767768856,
+          52.08452344600833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 59,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "75,6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71898889541626,
+          52.0846223386752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 63,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "152,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.719578981399536,
+          52.08460256015936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 65,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "80,4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.719857931137085,
+          52.084780566486366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 69,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720126152038574,
+          52.08483990177093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 71,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "62,2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720340728759766,
+          52.08486627298316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 73,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "135,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720598220825195,
+          52.08496516489037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "адрес": 75,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "103,1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720812797546387,
+          52.085004721591886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "адрес": 80,
+        "улица": "Шевченко",
+        "тип": "усадебный",
+        "площадь": "158,7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.718559741973877,
+          52.08477727007937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "улица": "Шевченко",
+        "адрес": 86,
+        "тип": "усадебный",
+        "площадь": "109,6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.719123005867004,
+          52.08491901536096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "улица": "Шевченко",
+        "адрес": 94,
+        "тип": "усадебный",
+        "площадь": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.719718456268307,
+          52.085021203540485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "улица": "Шевченко",
+        "адрес": 100,
+        "тип": "усадебный",
+        "площадь": "44,4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.720329999923706,
+          52.08516954080411
+        ]
+      }
+    }
+  ]
+}
